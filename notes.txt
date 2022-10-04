@@ -1,0 +1,21 @@
+Java Application---->JDBC API----> DB software
+JDBC API--> Java Database connectivity Application Programming Interface.
+JDBC API---> contains interfaces and abstract classes.
+
+Data Base Server Examples:
+======================
+SQL Server -microsoft
+DB2 - IBM
+Mysql- open source
+Oracle -Oracle
+PostgreSQL-
+
+
+To connect with any Database we have to follow the below Steps:
+
+    1.Register the Driver class
+    2.Create connection
+    3.Create statement
+    4.Execute queries
+    5.Close connection
+
